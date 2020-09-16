@@ -1,5 +1,6 @@
 ### Hi there thanks for showing up👋
 
+![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=radical)
 
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&count_private=true)](https://github.com/allaye/github-readme-stats&count_private=true)
 </br>
