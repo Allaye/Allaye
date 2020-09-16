@@ -4,23 +4,17 @@
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
+</br>
+</br>
 
-
-
-
-<!--
-**Allaye/Allaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on an image dataset downloader
+- 🌱 I’m currently learning Azure, django, and soon in the future AWS
+- 👯 I’m looking to collaborate on the project stated above
+- 🤔 I’m looking for help with so many things
+- 💬 Ask me about everything 
+- 📫 How to reach me: Kolade199@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I dream on living on another<b> planet </b>
 -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=github-readme-stats)](https://github.com/allaye/github-readme-stats)
