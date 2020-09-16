@@ -14,7 +14,7 @@
 - 💬 Ask me about everything 
 - 📫 How to reach me: Kolade199@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I dream on living on another<b> planet </b>
+- ⚡ Fun fact: I dream on living on another<b> planet someday</b>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/Avirs-Final-Year-Project)
