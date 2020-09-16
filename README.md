@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there thanks for showing up👋
 
 
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye)](https://github.com/allaye/github-readme-stats)
