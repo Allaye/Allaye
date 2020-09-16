@@ -1,7 +1,7 @@
 ### Hi there thanks for showing up👋
 
 
-[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
+[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark&show_owner=true)](https://github.com/allaye/github-readme-stats&count_private=true)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 </br>
