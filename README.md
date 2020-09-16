@@ -1,5 +1,6 @@
 ### Hi there thanks for showing up👋
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
 </br>
@@ -17,3 +18,4 @@
 - ⚡ Fun fact: I dream on living on another<b> planet </b>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=github.com/Allaye/Avirs-Final-Year-Project)](https://github.com/allaye/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
