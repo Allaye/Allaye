@@ -16,5 +16,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet </b>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=)](https://github.com/allaye/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/Avirs-Final-Year-Project)
