@@ -15,6 +15,5 @@
 - 📫 How to reach me: Kolade199@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet </b>
--->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=github-readme-stats)](https://github.com/allaye/github-readme-stats)
