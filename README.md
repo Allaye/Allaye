@@ -1,7 +1,7 @@
 ### Hi there thanks for showing up👋
 
 
-[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark&show_owner=true)](https://github.com/allaye/github-readme-stats&count_private=true)
+[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 </br>
@@ -16,4 +16,4 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet </b>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=github-readme-stats)](https://github.com/allaye/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=https://github.com/Allaye/Avirs-Final-Year-Project)](https://github.com/allaye/github-readme-stats)
