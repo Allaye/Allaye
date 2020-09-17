@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 </br>
 </br>
-My name is Kolade. I'm a Jnr Data Scientist with a more than basic software development skills, i always want to develop tools that the community can put into good use.Less I forget, I studied computing science🤭 and a space fanatic😜🚀
+My name is Kolade. I'm a Jnr Data Scientist with a more than basic software development skills, i always want to develop tools that the community can put into good use.Less I forget, I studied computing science🤭 and a space fanatic(i know it is a bad word to use)😜🚀
 - 🔭 I’m currently working on an image dataset downloader
 - 🌱 I’m currently learning Azure, django, and soon in the future AWS
 - 👯 I’m looking to collaborate on the project stated above
