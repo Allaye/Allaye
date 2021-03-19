@@ -1,4 +1,5 @@
-### Hi there thanks for showing up👋
+### Hi there thanks for showing up👋 # Hey, there~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/tpikachu/count.svg) √î$î†ø®$
+## &#x1f4c8; GitHub Stats
 My name is Kolade. I'm a Jnr Data Scientist with a more than basic software development skills, i always want to develop tools that the community can put into good use. Less I forget, I studied computing science🤭 but dont know anything about computers and a space fanatic (yah i know it is a bad word to use)😜🚀
 
 
