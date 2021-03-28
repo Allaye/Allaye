@@ -10,7 +10,7 @@ My name is Kolade. a Jnr ML Engineer with focus on software development, i alway
 </br>
 
 - 🔭 I’m currently working on an image dataset downloader
-- 🌱 I’m currently learning Azure, django, and soon in the future AWS
+- 🌱 I’m currently learning alot of things✔
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m looking for help with so many things
 - 💬 Ask me about everything 
