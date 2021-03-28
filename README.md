@@ -14,7 +14,7 @@ My name is Kolade. a Jnr ML Engineer with focus on software development, i alway
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m looking for help with so many things
 - 💬 Ask me about everything 
-- 📫 How to reach me: Kolade199@gmail.com
+- 📫 How to reach me: allaye.heroku.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
 
