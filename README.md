@@ -1,6 +1,6 @@
 ### Hi there thanks for showing up👋, there~ has been <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
 ## &#x1f4c8; GitHub Stats
-My name is Kolade. a software development with focus on Machine Learning, i always want to develop tools that the community can put into good use. Less I forget, I studied computing science🤭 but knows nothing about computers, i am also a space fanatic (yah i always dream about how it looks at the other side )😜🚀
+My name is Kola. a software development with focus on Machine Learning, i always want to develop tools that the community can put into good use. Less I forget, I studied computing science🤭 but knows nothing about computers, i am also a space fanatic (yah i always dream about how it looks at the other side )😜🚀
 
 
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
