@@ -14,7 +14,7 @@ Hello there, call me Kola. a software development with focus on Machine Learning
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m looking for help with so many things
 - 💬 Ask me about everything 
-- 📫 How to reach me: https://allaye.heroku.com
+- 📫 How to reach me: https://allaye.herokuapp.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
 
