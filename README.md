@@ -3,7 +3,7 @@
 Hello there, call me Kola. a software development with focus on Machine Learning, i have always want to develop tools that the community can put into good use. Less I forget, I studied computing science🤭 but knows nothing about computers, i am also a space fanatic (yah i always dream about how it looks at the other side )😜🚀
 
 
-[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
+[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=false)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 </br>
