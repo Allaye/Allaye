@@ -9,8 +9,8 @@ Hello there, call me Kola. a software development with focus on Machine Learning
 </br>
 </br>
 
-- 🔭 I’m currently working on an image dataset downloader
-- 🌱 I’m currently learning alot of things✔
+- 🔭 I’m currently working on small libray to help reply to an email trend📧
+- 🌱 I’m currently learning alot of technologies like filemaker💪🏽
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m looking for help with so many things
 - 💬 Ask me about everything 
