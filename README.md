@@ -9,11 +9,11 @@ Hello there, call me Kola. a software development with focus on Machine Learning
 </br>
 </br>
 
-- 🔭 I’m currently working on small libray to help reply to an email trend📧
-- 🌱 I’m currently learning alot of technologies like filemaker💪🏽
+- 🔭 I’m currently working on a small python library to help reply to an email trend whiles making it easy📧
+- 🌱 I’m currently learning alot of technologies like filemaker, improving my skills on the current ones too💪🏽
 - 👯 I’m looking to collaborate on the project stated above
-- 🤔 I’m looking for help with so many things
-- 💬 Ask me about everything 
+- 🤔 I’m always looking for help with so many things
+- 💬 Ask me about everything, i am open to any and everything
 - 📫 How to reach me: https://allaye.herokuapp.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
