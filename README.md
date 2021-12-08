@@ -18,4 +18,5 @@ Hello there, you can call me Kola. i am a software development with more focus o
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/Avirs-Final-Year-Project
 
