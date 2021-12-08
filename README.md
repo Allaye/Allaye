@@ -19,6 +19,6 @@ Hello there, you can call me Kola. i am a software development with more focus o
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/Avirs-Final-Year-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/ML-DL-ALGO-PAPER-IMPLEMENTATION)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=ML-DL-ALGO-PAPER-IMPLEMENTATION)](https://github.com/Allaye/ML-DL-ALGO-PAPER-IMPLEMENTATION)
 
 
