@@ -20,4 +20,4 @@ Hello there, you can call me Kola. i am a software development with more focus o
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/Avirs-Final-Year-Project)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=allaye&repo=Avirs-Final-Year-Project)](https://github.com/Allaye/ML-DL-ALGO-PAPER-IMPLEMENTATION)
