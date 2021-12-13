@@ -14,8 +14,7 @@ Hello there, you can call me Kola. i am a software development with more focus o
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m always looking for help with so many things
 - 💬 Ask me about everything, i am open to any and everything
-- 📫 How to reach me: https://allaye.herokuapp.com ![WebWebdevelopperGIF](https://user-images.githubusercontent.com/17365218/145907931-15de3e8c-b49d-4197-9395-73facb6111d0.gif)
-
+- 📫 How to reach me: https://allaye.herokuapp.com 🕸️
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I dream on living on another<b> planet someday</b>😜🚀
 
