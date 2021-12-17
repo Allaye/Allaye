@@ -3,11 +3,7 @@
 Hello there, you can call me Kola. i am a software development with more focus on Machine Learning, i have always want to develop tools that the community can put into good use. Less I forget, I studied computing science�👩‍💻 but knows nothing about computers, i am also a space fanatic (yah i always dream about how it looks at the other side )😜🚀
 
 
-[![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
-</br>
-</br>
+
 
 - 🔭 I’m currently working on a small python library to help reply to an email trend whiles making it easy📧
 - 🌱 I’m currently learning alot of technologies like filemaker, improving my skills on the current ones too💪🏽
