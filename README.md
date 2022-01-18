@@ -7,7 +7,11 @@ Hello there, you can call me Kola. i am a software development with more focus o
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&locale=en" alt="Allaye" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allaye&" alt="Allaye" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&locale=en" width="45%" alt="Allaye" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allaye&" width="45%" alt="Allaye" /> <p/>
+
 </br>
 </br>
 
