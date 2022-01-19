@@ -1,16 +1,20 @@
 ### Hi there thanks for showing up👋, there~ has been <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
 ## &#x1f4c8; GitHub Stats
 Hello there, you can call me Kola. i am a software development with more focus on Machine Learning, i have always want to develop tools that the community can put into good use. Less I forget, I studied computing science�👩‍💻 but knows nothing about computers, i am also a space fanatic (yah i always dream about how it looks at the other side )😜🚀
+<!--
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Allaye&show_icons=true&locale=en&layout=compact" width="45%" alt="Allaye" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&locale=en" width="49%" alt="Allaye" /> <p/> -->
 
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&locale=en" width="49%" alt="Allaye" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&theme=vue-dark&locale=en" width="49%" alt="Allaye" />
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allaye&" width="49%" alt="Allaye" /> <p/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allaye&theme=vue-dark" width="49%" alt="Allaye" /> <p/>
 
 </br>
 </br>
