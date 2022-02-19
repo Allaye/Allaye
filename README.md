@@ -1,5 +1,6 @@
 ### Hi there thanks for showing up👋, there~ has been <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
-## &#x1f4c8; GitHub Stats
+
+## &#x1f4d8; About Me
 Hello there, you can call me Kola. i am a software developer with more focus on Machine Learning, i have always wanted to develop tools that the community can put into good use. Less I forget, I studied computing science�👩‍💻 but knows nothing about computers, i am also a Space fanatic (yah i always dream about how it looks from the other side )😜🚀
 <!--
 <p align="center">
@@ -9,6 +10,7 @@ Hello there, you can call me Kola. i am a software developer with more focus on 
 <!--
 [![Allaye's github stats](https://github-readme-stats.vercel.app/api?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats&count_private=true)
 <br> -->
+## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 
 <p align="center">
