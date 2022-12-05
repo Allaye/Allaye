@@ -13,7 +13,7 @@ Hello there, you can call me Kola. i am a software developer with more focus on 
 ## &#x1f4c8; GitHub Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allaye&show_icons=true&theme=vue-dark)](https://github.com/allaye/github-readme-stats)
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allaye&show_icons=true&theme=vue-dark&locale=en" width="49%" alt="Allaye" />
 <!-- &nbsp; &nbsp; &nbsp; &nbsp; -->
