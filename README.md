@@ -1,7 +1,7 @@
 ### Hi there thanks for showing up👋, there~ has been <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
 
 ## &#x1f4d8; About Me
-Hello there, you can call me Kola. i am a software developer with more focus on Artificial Intelligence, i have always wanted to develop tools that the community can put into good use. just a reminder i know nothing about computers, i am a Space fanatic (yah i always dream about how it looks on the other side and i believe there are aliens👽)🤪
+Hello there, you can call me K. i am a software developer with more focus on Artificial Intelligence, i have always wanted to develop tools that the community can put into good use. just a reminder i know nothing about computers, i am a Space fanatic (yah i always dream about how it looks on the other side and i believe there are aliens👽)
 <!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Allaye&show_icons=true&locale=en&layout=compact" width="45%" alt="Allaye" />
