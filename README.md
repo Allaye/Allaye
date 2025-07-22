@@ -22,7 +22,7 @@ Hello there, you can call me K. i am a software developer with more focus on Art
 </br>
 </br>
 
-- 🔭 I’m currently working on a small python library to help reply to an email trend whiles making it easy📧
+- 🔭 I’m currently working on a small python library to help reply to an email trend
 - 🌱 I’m currently learning alot of technologies like filemaker, improving my skills on the current ones too💪🏽
 - 👯 I’m looking to collaborate on the project stated above
 - 🤔 I’m always looking for help with so many things
